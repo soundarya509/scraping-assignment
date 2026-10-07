@@ -1,0 +1,55 @@
+{
+  "run_started_at": "2026-10-07T07:52:41+00:00",
+  "execution_time_seconds": 502.89,
+  "sources": {
+    "Books to Scrape": {
+      "collected": 1000,
+      "cleaned": 1000,
+      "rejected_validation": 0,
+      "rejection_reasons": {},
+      "duplicates_removed": 1,
+      "final": 999,
+      "pages_scraped": 50,
+      "failed_pages": [],
+      "failed_detail_pages": [],
+      "fatal_error": null
+    },
+    "Quotes to Scrape": {
+      "collected": 100,
+      "cleaned": 100,
+      "rejected_validation": 0,
+      "rejection_reasons": {},
+      "duplicates_removed": 0,
+      "final": 100,
+      "pages_scraped": 10,
+      "failed_pages": [],
+      "failed_detail_pages": [],
+      "fatal_error": null
+    }
+  },
+  "totals": {
+    "collected": 1100,
+    "cleaned": 1100,
+    "rejected_validation": 0,
+    "duplicates_removed": 1,
+    "final": 1099
+  },
+  "duplicate_breakdown": {
+    "exact_after_cleaning": 1,
+    "normalized_match": 0,
+    "url_match": 0,
+    "total_removed": 1
+  },
+  "validity": {
+    "final_rows_with_price": 999,
+    "final_rows_with_author": 100,
+    "final_rows_with_category": 999
+  },
+  "storage": {
+    "database": "scraping",
+    "collection": "records",
+    "inserted": 0,
+    "updated": 1099,
+    "total_in_collection": 1099
+  }
+}

@@ -1,0 +1,138 @@
+2026-10-07 13:22:41,010 INFO    pipeline: === Source: Books to Scrape ===
+2026-10-07 13:22:41,012 INFO    scrapers.base: [Books to Scrape] page 1: https://books.toscrape.com/
+2026-10-07 13:22:42,626 INFO    scrapers.http_client: No usable robots.txt at https://books.toscrape.com (HTTP 404); allowing
+2026-10-07 13:22:43,617 INFO    scrapers.base: [Books to Scrape] page 1: 20 records
+2026-10-07 13:22:43,618 INFO    scrapers.base: [Books to Scrape] page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 13:22:43,979 INFO    scrapers.base: [Books to Scrape] page 2: 20 records
+2026-10-07 13:22:43,980 INFO    scrapers.base: [Books to Scrape] page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 13:22:44,339 INFO    scrapers.base: [Books to Scrape] page 3: 20 records
+2026-10-07 13:22:44,340 INFO    scrapers.base: [Books to Scrape] page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 13:22:44,694 INFO    scrapers.base: [Books to Scrape] page 4: 20 records
+2026-10-07 13:22:44,695 INFO    scrapers.base: [Books to Scrape] page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 13:22:45,041 INFO    scrapers.base: [Books to Scrape] page 5: 20 records
+2026-10-07 13:22:45,041 INFO    scrapers.base: [Books to Scrape] page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 13:22:45,394 INFO    scrapers.base: [Books to Scrape] page 6: 20 records
+2026-10-07 13:22:45,394 INFO    scrapers.base: [Books to Scrape] page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 13:22:45,768 INFO    scrapers.base: [Books to Scrape] page 7: 20 records
+2026-10-07 13:22:45,769 INFO    scrapers.base: [Books to Scrape] page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 13:22:46,200 INFO    scrapers.base: [Books to Scrape] page 8: 20 records
+2026-10-07 13:22:46,201 INFO    scrapers.base: [Books to Scrape] page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 13:22:46,565 INFO    scrapers.base: [Books to Scrape] page 9: 20 records
+2026-10-07 13:22:46,565 INFO    scrapers.base: [Books to Scrape] page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 13:22:46,958 INFO    scrapers.base: [Books to Scrape] page 10: 20 records
+2026-10-07 13:22:46,958 INFO    scrapers.base: [Books to Scrape] page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 13:22:47,455 INFO    scrapers.base: [Books to Scrape] page 11: 20 records
+2026-10-07 13:22:47,455 INFO    scrapers.base: [Books to Scrape] page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 13:22:47,815 INFO    scrapers.base: [Books to Scrape] page 12: 20 records
+2026-10-07 13:22:47,815 INFO    scrapers.base: [Books to Scrape] page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 13:22:48,280 INFO    scrapers.base: [Books to Scrape] page 13: 20 records
+2026-10-07 13:22:48,280 INFO    scrapers.base: [Books to Scrape] page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 13:22:48,649 INFO    scrapers.base: [Books to Scrape] page 14: 20 records
+2026-10-07 13:22:48,650 INFO    scrapers.base: [Books to Scrape] page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 13:22:49,015 INFO    scrapers.base: [Books to Scrape] page 15: 20 records
+2026-10-07 13:22:49,015 INFO    scrapers.base: [Books to Scrape] page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 13:22:49,373 INFO    scrapers.base: [Books to Scrape] page 16: 20 records
+2026-10-07 13:22:49,373 INFO    scrapers.base: [Books to Scrape] page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 13:22:49,732 INFO    scrapers.base: [Books to Scrape] page 17: 20 records
+2026-10-07 13:22:49,732 INFO    scrapers.base: [Books to Scrape] page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 13:22:50,100 INFO    scrapers.base: [Books to Scrape] page 18: 20 records
+2026-10-07 13:22:50,100 INFO    scrapers.base: [Books to Scrape] page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 13:22:50,458 INFO    scrapers.base: [Books to Scrape] page 19: 20 records
+2026-10-07 13:22:50,459 INFO    scrapers.base: [Books to Scrape] page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 13:22:50,851 INFO    scrapers.base: [Books to Scrape] page 20: 20 records
+2026-10-07 13:22:50,852 INFO    scrapers.base: [Books to Scrape] page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 13:22:51,212 INFO    scrapers.base: [Books to Scrape] page 21: 20 records
+2026-10-07 13:22:51,212 INFO    scrapers.base: [Books to Scrape] page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 13:22:51,573 INFO    scrapers.base: [Books to Scrape] page 22: 20 records
+2026-10-07 13:22:51,574 INFO    scrapers.base: [Books to Scrape] page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 13:22:51,943 INFO    scrapers.base: [Books to Scrape] page 23: 20 records
+2026-10-07 13:22:51,943 INFO    scrapers.base: [Books to Scrape] page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 13:22:52,305 INFO    scrapers.base: [Books to Scrape] page 24: 20 records
+2026-10-07 13:22:52,307 INFO    scrapers.base: [Books to Scrape] page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 13:22:52,676 INFO    scrapers.base: [Books to Scrape] page 25: 20 records
+2026-10-07 13:22:52,677 INFO    scrapers.base: [Books to Scrape] page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 13:22:53,066 INFO    scrapers.base: [Books to Scrape] page 26: 20 records
+2026-10-07 13:22:53,067 INFO    scrapers.base: [Books to Scrape] page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 13:22:53,420 INFO    scrapers.base: [Books to Scrape] page 27: 20 records
+2026-10-07 13:22:53,420 INFO    scrapers.base: [Books to Scrape] page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 13:22:53,787 INFO    scrapers.base: [Books to Scrape] page 28: 20 records
+2026-10-07 13:22:53,787 INFO    scrapers.base: [Books to Scrape] page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 13:22:54,149 INFO    scrapers.base: [Books to Scrape] page 29: 20 records
+2026-10-07 13:22:54,150 INFO    scrapers.base: [Books to Scrape] page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 13:22:54,522 INFO    scrapers.base: [Books to Scrape] page 30: 20 records
+2026-10-07 13:22:54,522 INFO    scrapers.base: [Books to Scrape] page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 13:22:54,886 INFO    scrapers.base: [Books to Scrape] page 31: 20 records
+2026-10-07 13:22:54,886 INFO    scrapers.base: [Books to Scrape] page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 13:22:55,259 INFO    scrapers.base: [Books to Scrape] page 32: 20 records
+2026-10-07 13:22:55,259 INFO    scrapers.base: [Books to Scrape] page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 13:22:55,613 INFO    scrapers.base: [Books to Scrape] page 33: 20 records
+2026-10-07 13:22:55,613 INFO    scrapers.base: [Books to Scrape] page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 13:22:55,968 INFO    scrapers.base: [Books to Scrape] page 34: 20 records
+2026-10-07 13:22:55,968 INFO    scrapers.base: [Books to Scrape] page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 13:22:56,391 INFO    scrapers.base: [Books to Scrape] page 35: 20 records
+2026-10-07 13:22:56,392 INFO    scrapers.base: [Books to Scrape] page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 13:22:56,751 INFO    scrapers.base: [Books to Scrape] page 36: 20 records
+2026-10-07 13:22:56,751 INFO    scrapers.base: [Books to Scrape] page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 13:22:57,271 INFO    scrapers.base: [Books to Scrape] page 37: 20 records
+2026-10-07 13:22:57,272 INFO    scrapers.base: [Books to Scrape] page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 13:22:57,641 INFO    scrapers.base: [Books to Scrape] page 38: 20 records
+2026-10-07 13:22:57,641 INFO    scrapers.base: [Books to Scrape] page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 13:22:58,018 INFO    scrapers.base: [Books to Scrape] page 39: 20 records
+2026-10-07 13:22:58,018 INFO    scrapers.base: [Books to Scrape] page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 13:22:58,393 INFO    scrapers.base: [Books to Scrape] page 40: 20 records
+2026-10-07 13:22:58,393 INFO    scrapers.base: [Books to Scrape] page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 13:22:58,862 INFO    scrapers.base: [Books to Scrape] page 41: 20 records
+2026-10-07 13:22:58,862 INFO    scrapers.base: [Books to Scrape] page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 13:22:59,344 INFO    scrapers.base: [Books to Scrape] page 42: 20 records
+2026-10-07 13:22:59,344 INFO    scrapers.base: [Books to Scrape] page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 13:22:59,732 INFO    scrapers.base: [Books to Scrape] page 43: 20 records
+2026-10-07 13:22:59,732 INFO    scrapers.base: [Books to Scrape] page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 13:23:00,117 INFO    scrapers.base: [Books to Scrape] page 44: 20 records
+2026-10-07 13:23:00,117 INFO    scrapers.base: [Books to Scrape] page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 13:23:00,497 INFO    scrapers.base: [Books to Scrape] page 45: 20 records
+2026-10-07 13:23:00,497 INFO    scrapers.base: [Books to Scrape] page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 13:23:00,869 INFO    scrapers.base: [Books to Scrape] page 46: 20 records
+2026-10-07 13:23:00,869 INFO    scrapers.base: [Books to Scrape] page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 13:23:01,243 INFO    scrapers.base: [Books to Scrape] page 47: 20 records
+2026-10-07 13:23:01,243 INFO    scrapers.base: [Books to Scrape] page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 13:23:01,611 INFO    scrapers.base: [Books to Scrape] page 48: 20 records
+2026-10-07 13:23:01,611 INFO    scrapers.base: [Books to Scrape] page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 13:23:01,975 INFO    scrapers.base: [Books to Scrape] page 49: 20 records
+2026-10-07 13:23:01,976 INFO    scrapers.base: [Books to Scrape] page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 13:23:02,338 INFO    scrapers.base: [Books to Scrape] page 50: 20 records
+2026-10-07 13:23:02,338 INFO    scrapers.base: [Books to Scrape] pagination finished: 50 pages ok, 0 failed, 1000 raw records
+2026-10-07 13:23:36,424 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 100/1000
+2026-10-07 13:24:13,275 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 200/1000
+2026-10-07 13:24:54,150 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 300/1000
+2026-10-07 13:25:30,804 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 400/1000
+2026-10-07 13:26:11,063 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 500/1000
+2026-10-07 13:26:53,583 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 600/1000
+2026-10-07 13:27:39,199 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 700/1000
+2026-10-07 13:28:28,040 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 800/1000
+2026-10-07 13:29:22,774 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 900/1000
+2026-10-07 13:30:12,433 INFO    scrapers.books_scraper: [Books to Scrape] detail pages: 1000/1000
+2026-10-07 13:30:12,886 INFO    pipeline: === Source: Quotes to Scrape ===
+2026-10-07 13:30:12,887 INFO    scrapers.base: [Quotes to Scrape] page 1: https://quotes.toscrape.com/
+2026-10-07 13:30:15,023 INFO    scrapers.http_client: No usable robots.txt at https://quotes.toscrape.com (HTTP 404); allowing
+2026-10-07 13:30:15,851 INFO    scrapers.base: [Quotes to Scrape] page 1: 10 records
+2026-10-07 13:30:15,852 INFO    scrapers.base: [Quotes to Scrape] page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 13:30:16,990 INFO    scrapers.base: [Quotes to Scrape] page 2: 10 records
+2026-10-07 13:30:16,991 INFO    scrapers.base: [Quotes to Scrape] page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 13:30:17,401 INFO    scrapers.base: [Quotes to Scrape] page 3: 10 records
+2026-10-07 13:30:17,402 INFO    scrapers.base: [Quotes to Scrape] page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 13:30:17,904 INFO    scrapers.base: [Quotes to Scrape] page 4: 10 records
+2026-10-07 13:30:17,905 INFO    scrapers.base: [Quotes to Scrape] page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 13:30:18,315 INFO    scrapers.base: [Quotes to Scrape] page 5: 10 records
+2026-10-07 13:30:18,315 INFO    scrapers.base: [Quotes to Scrape] page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 13:30:18,824 INFO    scrapers.base: [Quotes to Scrape] page 6: 10 records
+2026-10-07 13:30:18,826 INFO    scrapers.base: [Quotes to Scrape] page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 13:30:19,250 INFO    scrapers.base: [Quotes to Scrape] page 7: 10 records
+2026-10-07 13:30:19,250 INFO    scrapers.base: [Quotes to Scrape] page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 13:30:19,858 INFO    scrapers.base: [Quotes to Scrape] page 8: 10 records
+2026-10-07 13:30:19,859 INFO    scrapers.base: [Quotes to Scrape] page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 13:30:20,271 INFO    scrapers.base: [Quotes to Scrape] page 9: 10 records
+2026-10-07 13:30:20,271 INFO    scrapers.base: [Quotes to Scrape] page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 13:30:20,667 INFO    scrapers.base: [Quotes to Scrape] page 10: 10 records
+2026-10-07 13:30:20,667 INFO    scrapers.base: [Quotes to Scrape] pagination finished: 10 pages ok, 0 failed, 100 raw records
+2026-10-07 13:31:04,857 INFO    storage: MongoDB: {'database': 'scraping', 'collection': 'records', 'inserted': 0, 'updated': 1099, 'total_in_collection': 1099}
+2026-10-07 13:31:04,859 INFO    pipeline: Done: {"collected": 1100, "cleaned": 1100, "rejected_validation": 0, "duplicates_removed": 1, "final": 1099}
